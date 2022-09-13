@@ -1,10 +1,13 @@
 #include <stdio.h>
-
-int main()
+/**
+ * main - _putchar 
+ *
+ * Return: Always 0 (Success)
+ */
+int main(void)
 {
 
-/* Below function printsout on the output without using the standard printf */
-
  system ("echo '_putchar\n' ");
-return 0;
+	
+	return 0;
 }
